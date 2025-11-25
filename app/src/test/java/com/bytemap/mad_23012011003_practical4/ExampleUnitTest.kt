@@ -1,4 +1,4 @@
-package com.bytemap.mad_23012011026_practical4
+package com.bytemap.mad_23012011003_practical4
 
 import org.junit.Test
 
